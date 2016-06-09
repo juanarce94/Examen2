@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/Add_transaction"
+            android:icon="@drawable/addtr"
+            android:title="Add transaction" />
+        <item
+            android:id="@+id/Edit_transaction"
+            android:icon="@drawable/edit"
+            android:title="Edit transaction" />
+        <item
+            android:id="@+id/Disable_transaction"
+            android:icon="@drawable/disable"
+            android:title="Disable transaction" />
+        <item
+            android:id="@+id/Transaction_list"
+            android:icon="@drawable/list"
+            android:title="Transaction list" />
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+
+            <item
+                android:id="@+id/About"
+                android:icon="@drawable/about"
+                android:title="About" />
+        </menu>
+    </item>
+
+</menu>

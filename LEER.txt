@@ -1,0 +1,4 @@
+Profe al final no pudimos lograr consumir el servicio desde el cliente
+no sabesmo por que.
+Pero el servicio esta listo,puede revisar el codigo.
+
